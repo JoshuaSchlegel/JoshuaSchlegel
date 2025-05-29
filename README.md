@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/JoshuaSchlegel/osticket-prereqs) 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad) ***In Progress***
-  - [Creating Group Policies in Active Directory in Azure VMs](https://github.com/JoshuaSchlegel/group-policy-ad) ***Coming Soon***
+  - [Applying Group Policies in Active Directory Using Azure VMs](https://github.com/JoshuaSchlegel/group-policy-ad) ***Coming Soon***
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoshuaSchlegel/azure-network-protocols) ***Coming Soon***
     
 
