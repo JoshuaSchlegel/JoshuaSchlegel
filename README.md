@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JoshuaSchlegel/osticket-prereqs) 
+  - [ITSM Ticketing System Lab – osTicket Deployment](https://github.com/JoshuaSchlegel/osticket-prereqs) 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad) 
   - [Applying Group Policies in Active Directory Using Azure VMs](https://github.com/JoshuaSchlegel/group-policy-ad) ***In Progress***
