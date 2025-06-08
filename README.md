@@ -1,5 +1,11 @@
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
 
+<h2>About Me</h2>
+
+🚧 Currently working on... Completing my GitHub Projects.
+📚 I'm currently learning... CompTIA Security+!
+🎯 Goals... To consistently learn more in all things Tech and Cybersecurity!
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
