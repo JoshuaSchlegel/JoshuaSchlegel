@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/8f6fa0f1-2434-41ba-92a6-fc5bd6629cd1)
+
+
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
