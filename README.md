@@ -6,7 +6,7 @@
 📫**How to reach me:**
 - 📧joshua.schlegel1197@gmail.com
 - 💼[LinkedIn](https://linkedin.com/in/joshuaschlegel)
-- 📜[Resume]
+- 📜[Resume](https://github.com/JoshuaSchlegel/resume/blob/main/MyResume.pdf)
 
 📚 **I'm currently learning...**
 - AAS in Computer Information Systems
