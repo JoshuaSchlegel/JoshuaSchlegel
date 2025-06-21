@@ -3,11 +3,6 @@
 
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
 
-📫**How to reach me:**
-- 📧joshua.schlegel1197@gmail.com
-- 💼[LinkedIn](https://linkedin.com/in/joshuaschlegel)
-- 📜[Resume](https://github.com/JoshuaSchlegel/resume/blob/main/MyResume.pdf)
-
 📚 **I'm currently learning...**
 - AAS in Computer Information Systems
 - CompTIA Security+
