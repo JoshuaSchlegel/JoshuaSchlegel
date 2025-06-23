@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b82203cd-5e2e-41f0-829c-a705e579cf27)
+![image](https://github.com/user-attachments/assets/7a345385-182c-4aac-aafa-95f29fe82de5)
 
 
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
