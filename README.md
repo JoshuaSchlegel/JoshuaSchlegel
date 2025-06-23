@@ -8,6 +8,11 @@
 - CompTIA Security+
 - Hands on Cybersecurity Course
 
+<h2>🛡️Security Projects:</h2>
+
+- <b>Microsoft Azure</b>
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoshuaSchlegel/azure-network-protocols) ***In Progress***
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -15,7 +20,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad) 
   - [Applying Group Policies in Active Directory](https://github.com/JoshuaSchlegel/group-policy-ad) 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoshuaSchlegel/azure-network-protocols) ***Coming Soon***
+  
     
 
 <h2>🤳Connect with me:</h2>
