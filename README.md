@@ -4,9 +4,9 @@
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
 
 📚 **I'm currently learning...**
-- AAS in Computer Information Systems
-- CompTIA Security+
 - Hands on Cybersecurity Course
+- CompTIA Security+
+- AAS in Computer Information Systems
 
 <h2>🛡️Security Projects:</h2>
 
