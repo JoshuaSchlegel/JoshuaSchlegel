@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">IT Professional</a>💻🖱️📱✌️😌</h1>
 
-📚 **I'm currently learning...**
+📚 **I'm currently working on...**
 - Hands on Cybersecurity Course
 - CompTIA Security+
 - AAS in Computer Information Systems
