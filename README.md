@@ -11,7 +11,7 @@
 <h2>🛡️Security Projects:</h2>
 
 - <b>Microsoft Azure</b>
-    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JoshuaSchlegel/azure-network-protocols) 
+    - [Cloud Network Security & Protocol Monitoring Project](https://github.com/JoshuaSchlegel/azure-network-protocols) 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
