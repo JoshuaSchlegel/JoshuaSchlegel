@@ -6,7 +6,8 @@
 📚 **I'm currently working on...**
 - Hands on Cybersecurity Course (Expected completion August 2025)
 - CompTIA Security+ (Expected August 2025)
-- AAS in Computer Information Systems 
+- AAS in Computer Information Systems
+    - (Software Application Support and Intro to Linux)
 
 <h2>🛡️Security Projects:</h2>
 
