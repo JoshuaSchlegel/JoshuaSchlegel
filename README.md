@@ -5,6 +5,7 @@
 
 📚 **I'm currently working on...**
 - Hands on Cybersecurity Course (Expected completion August 2025)
+    - (**Currently Learning**) Vulnerability Management with Tenable
 - CompTIA Security+ (Expected August 2025)
 - AAS in Computer Information Systems
     - (**Currently Learning**) Software Application Support and Intro to Linux
