@@ -8,7 +8,7 @@
     - (**Currently Learning**) Vulnerability Management with Tenable
 - CompTIA Security+ (Expected August 2025)
 - AAS in Computer Information Systems
-    - (**Currently Learning**) Software Application Support and Intro to Linux
+    - (**Currently Learning**) Client Software Application Support and Overview, Installing, and Configuring Linux
 
 <h2>🛡️Security Projects:</h2>
 
