@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/7a345385-182c-4aac-aafa-95f29fe82de5)
 
 
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/joshuaschlegel/">Cybersecurity Analyst</a>💻🖱️📱✌️😌</h1>
+<h1>Hi, I'm Josh, a <a href="https://www.linkedin.com/in/joshuaschlegel/">Cybersecurity Analyst</a>💻🖱️📱✌️😌</h1>
 
 📚 **I'm currently working on...**
 - Hands on Cybersecurity Course (Expected completion August 2025)
