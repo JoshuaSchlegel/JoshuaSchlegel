@@ -4,7 +4,7 @@
 <h1>Hi, I'm Josh, a <a href="https://www.linkedin.com/in/joshuaschlegel/">Cybersecurity Analyst</a>💻🖱️📱✌️😌</h1>
 
 📚 **I'm currently working on...**
-- Hands on Cybersecurity Course (Expected completion August 2025)
+- Hands on Cybersecurity Training and Part Time Position
     - (**Currently Learning**) Vulnerability Management with Tenable
 - CompTIA Security+ (Expected September 2025)
 - AAS in Computer Information Systems
