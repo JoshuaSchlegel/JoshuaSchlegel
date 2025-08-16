@@ -12,6 +12,16 @@
 
 <h2>🛡️Security Projects:</h2>
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** (***In Progress***)
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshuaschlegel/threat-hunting-scenario-tor)** (***Coming Soon***)
+
+
 - <b>Microsoft Azure</b>
     - [Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols) 
 
