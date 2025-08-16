@@ -10,8 +10,6 @@
 - AAS in Computer Information Systems
     - (**Currently Learning**) -Linux
 
-<h2>🛡️Security Projects:</h2>
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** (***In Progress***)
@@ -21,6 +19,7 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshuaschlegel/threat-hunting-scenario-tor)** (***Coming Soon***)
 
+<h2>🛡️Security Projects:</h2>
 
 - <b>Microsoft Azure</b>
     - [Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols) 
