@@ -5,7 +5,7 @@
 
 📚 **I'm currently working on...**
 - Hands on Cybersecurity Training and Part Time Position
-    - (**Currently Learning**) Vulnerability Management with Tenable
+    - (**Currently Working With**) Vulnerability Management with Tenable
 - CompTIA Security+ (Expected September 2025)
 - AAS in Computer Information Systems
     - (**Currently Learning**) -Linux
