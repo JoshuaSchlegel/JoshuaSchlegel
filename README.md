@@ -32,9 +32,10 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad) 
   - [Applying Group Policies in Active Directory](https://github.com/JoshuaSchlegel/group-policy-ad)
  
- <h2>📜 PowerShell Scripts</h2>
+ <h2>📜 PowerShell Scripts / Automation</h2>
 
 - [Active Directory Bulk User Creation](https://github.com/joshuaschlegel/AD_PS)
+- [Remediations](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main)
   
     
 
