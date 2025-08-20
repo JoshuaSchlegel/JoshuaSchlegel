@@ -30,7 +30,11 @@
   - [ITSM Ticketing System Lab – osTicket Deployment](https://github.com/JoshuaSchlegel/osticket-prereqs) 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad) 
-  - [Applying Group Policies in Active Directory](https://github.com/JoshuaSchlegel/group-policy-ad) 
+  - [Applying Group Policies in Active Directory](https://github.com/JoshuaSchlegel/group-policy-ad)
+ 
+ <h2>📜 PowerShell Scripts</h2>
+
+- [Active Directory Bulk User Creation](https://github.com/joshuaschlegel/AD_PS)
   
     
 
