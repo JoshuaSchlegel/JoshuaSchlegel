@@ -12,7 +12,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Simulation](https://github.com/joshuaschlegel/vulnerability-management-program)** 
+- **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
 
 ## 🚨 Threat Hunting and Security Operations
