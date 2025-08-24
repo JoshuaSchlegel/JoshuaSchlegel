@@ -39,6 +39,8 @@
 - **[Configuring Active Directory within Azure VMs](https://github.com/JoshuaSchlegel/configure-ad)** 
 - **[Applying Group Policies in Active Directory](https://github.com/JoshuaSchlegel/group-policy-ad)**
 - **[ITSM Ticketing System Lab – osTicket Deployment](https://github.com/JoshuaSchlegel/osticket-prereqs)**
+
+ ---
  
  <h2>📜 PowerShell Scripts / Automation</h2>
 
@@ -78,6 +80,8 @@
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
+
+---
 
 <h2>🤳Connect with me:</h2>
 
