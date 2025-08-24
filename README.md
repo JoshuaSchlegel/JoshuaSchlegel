@@ -24,6 +24,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
+- **[STIG Implementations Remediations (PowerShell)](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
