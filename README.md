@@ -23,7 +23,7 @@
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** 
-- **[Agent Based Scans woth Tenable](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
+- **[Agent Based Scans with Tenable](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
 - **[15+ DISA STIG Compliance Remediation Scripts (Windows10 / PowerShell)](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main/STIGS)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main)** 
 
