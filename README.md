@@ -3,6 +3,8 @@
 
 <h1>Hi, I'm Josh, a <a href="https://www.linkedin.com/in/joshuaschlegel/">Cybersecurity Professional</a>🛡️🔐💻🖱️📱✌️😌</h1>
 
+⚠️ I specialize in vulnerability management and threat detection—helping organizations strengthen their defenses and meet compliance standards.
+
 <div align="center">
     <a href="https://www.linkedin.com/in/joshuaschlegel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
