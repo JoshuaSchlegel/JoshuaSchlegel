@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a345385-182c-4aac-aafa-95f29fe82de5)
+<img width="1104" height="519" alt="image" src="https://github.com/user-attachments/assets/de32760f-11b3-414d-940b-8c06bfbd97cb" />
 
 
 <h1>Hi, I'm Josh, a <a href="https://www.linkedin.com/in/joshuaschlegel/">Cybersecurity Professional</a>🛡️🔐💻🖱️📱✌️😌</h1>
