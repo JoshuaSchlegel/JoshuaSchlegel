@@ -31,7 +31,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshuaschlegel/threat-hunting-scenario-tor)** (***Coming Soon***)
+- **[Threat Hunting Incident: Asset Exposure (Public Facing IPs)](https://github.com/joshuaschlegel/threat-hunting-scenario-tor)** (***Coming Soon***)
 - **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
 
 ---
