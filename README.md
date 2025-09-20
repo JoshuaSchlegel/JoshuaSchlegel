@@ -24,7 +24,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Incident: Asset Exposure (Public Facing IPs)](https://github.com/joshuaschlegel/threat-hunting-incident-exposure)** (***Coming Soon***)
+- **[Threat Hunting Incident: Asset Exposure (Public Facing IPs)](https://github.com/joshuaschlegel/threat-hunting-incident-exposure)**
 - **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
 
 ## ⚠️ Vulnerability Management
