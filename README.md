@@ -22,17 +22,17 @@
 
 ### 🔵 BLUE TEAM 🔵
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Incident: Asset Exposure (Public Facing IPs)](https://github.com/joshuaschlegel/threat-hunting-incident-exposure)** (***Coming Soon***)
+- **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
+
 ## ⚠️ Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshuaschlegel/vulnerability-management-program)** 
 - **[Agent Based Scans with Tenable](https://github.com/joshuaschlegel/programmatic-vulnerability-remediations)** (***Coming Soon***)
 - **[15+ DISA STIG Compliance Remediation Scripts (Windows10 / PowerShell)](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main/STIGS)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JoshuaSchlegel/Remediation_Packages/tree/main)** 
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Incident: Asset Exposure (Public Facing IPs)](https://github.com/joshuaschlegel/threat-hunting-scenario-tor)** (***Coming Soon***)
-- **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
 
 ---
 
