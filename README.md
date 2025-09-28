@@ -25,6 +25,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Incident: Public-Facing Asset Exposure](https://github.com/joshuaschlegel/threat-hunting-incident-exposure)**
+- **[Threat Hunting Incident: Suspicious Lateral Movement](https://github.com/joshuaschlegel/threat-hunting-incident-PortScan)**
 - **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
 
 ## ⚠️ Vulnerability Management
