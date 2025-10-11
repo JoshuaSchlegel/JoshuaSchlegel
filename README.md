@@ -24,6 +24,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Incident: Data Exfiltration](https://github.com/joshuaschlegel/data-exfiltration)**
 - **[Threat Hunting Incident: Public-Facing Asset Exposure](https://github.com/joshuaschlegel/threat-hunting-incident-exposure)**
 - **[Threat Hunting Incident: Internal Network Degradation](https://github.com/joshuaschlegel/threat-hunting-incident-PortScan)**
 - **[Cloud Network Security & Protocol Monitoring](https://github.com/JoshuaSchlegel/azure-network-protocols)** 
